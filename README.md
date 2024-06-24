@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... Data wizards 😎
 - 📫 How to reach me https://x.com/migelbrian3 on X and linkedin https://www.linkedin.com/in/brian-kimanzi-448b1b1b0/
 - 😄 Pronouns: He/Him 🤺
-- ⚡ Fun fact: 
 
 <!---
 Brian342/Brian342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
