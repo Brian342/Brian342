@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
                                                               📈community📊
                                                               
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kaggle,stackoverflow,youtube,x&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kaggle,stackoverflow,youtube,x,linkedin&perline=10)
 
                                                           🔥Data-Visualization🔥
                                                           
