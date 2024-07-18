@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
                                                           💎Programing Langs💎
                                                           
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,css,python,java,markdown,visualbasic&perline=8)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,css,html,python,java,markdown,visualbasic,c,cpp&perline=8)
 
                                                             🤺python-libraries🤺
                                                             
@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-                                              🛠Integrated Development Environment (IDE)🛠
+                                              🛠Integrated Development Environment (IDES)🛠
                                               
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,sublime,visualstudio,vscode&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,sublime,visualstudio,vscode,jupyter,anaconda&perline=10)
 
                                                             💻Tech Skills💻
 <p align="center">
