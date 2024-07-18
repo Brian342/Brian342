@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
                                                           💎Programing Langs💎
                                                           
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,css,html,python,java,markdown,visualbasic,c,cpp&perline=8)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,css,html,python,java,markdown,visualbasic,c,cpp,r&perline=8)
 
                                                             🤺python-libraries🤺
                                                             
