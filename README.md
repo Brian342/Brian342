@@ -5,11 +5,14 @@
 - 📫 How to reach me https://x.com/migelbrian3 on X and linkedin https://www.linkedin.com/in/brian-kimanzi-448b1b1b0/
 - 😄 Pronouns: He/Him 🤺
 
+![coding](https://github.com/user-attachments/assets/af279477-a7a1-40e1-b5cf-0ab7112f79b8)
 
 <!---
 Brian342/Brian342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
+
                                                           💎Programing Langs💎
                                                           
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,css,html,python,java,markdown,visualbasic,c,cpp,r&perline=8)
