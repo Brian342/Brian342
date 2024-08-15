@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 
                                                             🧶python-framework🧶
 
-  <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=django" />
   </a>
@@ -34,11 +33,9 @@ You can click the Preview link to take a look at your changes.
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,sublime,visualstudio,vscode,jupyter,anaconda&perline=10)
 
                                                             💻Tech Skills💻
-<p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,bash,duckduckgo,excel,firefox,gitlab,word,onedrive,onenote,opera,powerpoint" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,bash,duckduckgo,excel,firefox,gitlab,word,onedrive,onenote,opera,powerpoint,safari&perline=8" />
   </a>
-</p>
 
                                                               🌪Database🌪
                                                               
