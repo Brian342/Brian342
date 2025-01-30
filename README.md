@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian342
 - 👀 I’m interested in ... Data analysis ML/AI🤖
-- 🌱 I’m currently learning ...Data visualization with Tableu, Data manipulation with SQL and anything related with Data analysis
+- 🌱 I’m currently learning ...Data visualization with Tableu, Data manipulation with SQL, EDA with Python, power query and pivots with Excel.
 - 💞️ I’m looking to collaborate with ... Data wizards 😎
 - 📫 How to reach me https://x.com/migelbrian3 on X and linkedin https://www.linkedin.com/in/brian-kimanzi-448b1b1b0/🤺
 
