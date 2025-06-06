@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Brian342<br> 👀 I’m interested in ... Data analysis ML/AI🤖<br>🌱 I’m currently learning ...Data visualization with Tableu, Data manipulation with SQL, EDA with Python, power query and pivots with Excel.<br>💞️ I’m looking to collaborate with ... Data wizards 😎
+👋 Hi, I’m @Brian342<br> 👀 I’m interested in ... Data analysis ML/AI🤖<br>🌱 I’m currently practising ...Data visualization with Tableu, Data manipulation with SQL, EDA with Python, power query and pivots with Excel.<br>💞️ I’m looking to collaborate with ... Data wizards 😎
 
 
 <!---
