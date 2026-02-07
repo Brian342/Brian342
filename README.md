@@ -56,13 +56,13 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian342&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Brian342&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.verce gvhgcgfgfx.app/?username=Brian342&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.verce hg hggfcfxfdxd.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Brian342&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercet ydtrsrtstrsrtss.app/api?username=Brian342&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Brian342&icon=10&color=13)](https://visitcount.itsvg.in)
